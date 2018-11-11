@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --out-dir docs --public-url /change-me-to-match-your-repo"
+    "build": "parcel build src/index.html --out-dir docs --public-url /Scrolling_in_WebDesign"
   },
   "jest": {
     "setupFiles": [
@@ -14,7 +14,7 @@
     ]
   },
   "keywords": [],
-  "author": "Jonathan Soma <jonathan.soma@gmail.com> (http://jonathansoma.com)",
+  "author": "Coral Negron",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.5.0",
