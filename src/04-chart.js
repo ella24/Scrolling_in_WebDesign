@@ -20,6 +20,4 @@ Promise.all([
   .then(ready)
   .catch(err => console.log('Failed on', err))
 
-function ready([ces, wages]) {
-
-}
+function ready([ces, wages]) {}
